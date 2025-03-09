@@ -1,6 +1,6 @@
 # ÍNDICE
 
-## 1.- [Definición del períférico](1.Definicion.md))
+## 1.- [Definición del períférico](1.Definicion.md)
 
 ## 2.- [Características principales](2.Caracteristicas.md)
 
